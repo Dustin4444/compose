@@ -1,6 +1,6 @@
 module github.com/docker/compose/v5
 
-go 1.26.3
+go 1.26.8
 
 require (
 	github.com/DefangLabs/secret-detector v0.0.0-20260916192156-3e28d7ed64df
@@ -9,7 +9,7 @@ require (
 	github.com/buger/goterm v1.0.4
 	github.com/compose-spec/compose-go/v2 v2.15.1-0.20260918184426-f18e211cbeaf
 	github.com/containerd/console v1.0.5
-	github.com/containerd/containerd/v2 v2.3.5
+	github.com/containerd/containerd/v2 v2.3.6
 	github.com/containerd/errdefs v1.0.0
 	github.com/containerd/platforms v1.0.0-rc.5
 	github.com/creack/pty v1.1.24
